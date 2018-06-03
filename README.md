@@ -1,2 +1,2 @@
 # GPSpyder
-##1、抓取Google Play详情页数据
+## 1、抓取Google Play详情页数据
